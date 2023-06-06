@@ -1,0 +1,18 @@
+Q. How to setup  programmatic access for AWS?
+
+Ans. Please follow below steps to create programmatic access for AWS.
+
+Step 1: Login to AWS Console, In the services, go to IAM and perform the following steps
+
+Step 2: Add new user and key in the UserName  
+
+Step 3: Attach Existing Policies and Select Admin
+
+Let the Values be Default Click Next till you see the following Screen
+
+Step 4: Completion and Download
+
+Note: Once the Access Key ID and Secret Access Key is created you can download and save them somewhere safe and if you lost it you cannot recover (or) re-download it.  You would have to create a new API key.
+
+The best practice is to keep changing the API Access Key and recreating it. The older your API keys are the prone they are to Malicious attacks. So you should keep updating the API key and should not use the Same API key for a long period of time.
+

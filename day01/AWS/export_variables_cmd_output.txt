@@ -1,0 +1,11 @@
+root@controlplane ~ on ☁️  (us-east-1) ➜  export AWS_ACCESS_KEY_ID=AKIAZENM2TOTOTHMRKO7
+
+root@controlplane ~ on ☁️  (us-east-1) ➜  export AWS_SECRET_ACCESS_KEY=B10Ts0kRknVTChKcdAS/9vFpsyivB65yRJ88SoZA
+
+root@controlplane ~ on ☁️  (us-east-1) ➜  echo $AWS_ACCESS_KEY_ID
+AKIAZENM2TOTOTHMRKO7
+
+root@controlplane ~ on ☁️  (us-east-1) ➜  echo $AWS_SECRET_ACCESS_KEY
+B10Ts0kRknVTChKcdAS/9vFpsyivB65yRJ88SoZA
+
+root@controlplane ~ on ☁️  (us-east-1) ➜ 
