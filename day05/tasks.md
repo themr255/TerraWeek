@@ -5,7 +5,7 @@
 What are **modules** in Terraform? Why do we need modules in Terraform, and what are the benefits of using modules in Terraform?
 
 ## Task 2: 
-Create/Define a module in Terraform to encapsulate reusable infrastructure configuration in a modular and scalable manner. For e.g. $\textcolor{yellow}{\textsf{EC2 instance in AWS}}$, $\textcolor{lightblue}{\textsf{Resource Group in Azure}}$, $\textcolor{green}{\textsf{Cloud Storage bucket in GCP}}$.
+Create/Define a module in Terraform to encapsulate reusable infrastructure configuration in a modular and scalable manner. For e.g. $\textcolor{yellow}{\textsf{EC2 instance in AWS}}$, $\textcolor{lightblue}{\textsf{Resource Group in Azure}}$, $\textcolor{red}{\textsf{Cloud Storage bucket in GCP}}$.
 
 ## Task 3: 
 Dig into **modular composition** and **module versioning**.
