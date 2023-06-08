@@ -1,5 +1,5 @@
 <p align="center">
-  $\textcolor{orange}{\textsf{# TerraWeek Day 5}}$
+  $\textcolor{orange}{\textsf{TerraWeek Day 5}}$
 </p>
 
 ## Task 1: 
