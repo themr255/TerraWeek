@@ -14,9 +14,10 @@
 ## Task 4: 
 - What are the ways to **lock Terraform module versions**? Explain with code snippets.
 
-Attach code snippets and steps wherever necessary and post your learnings on LinkedIn
+<br>
+Attach code snippets and steps wherever necessary and post your learnings on LinkedIn with #TerraWeek tag.
 
-Feel Free to reach out to any of the TWS Community Builders / Leaders
+Feel Free to reach out to any of the TWS Community Builders / Leaders.
 
-Happy Learning 
+Happy Learning 😊
 
